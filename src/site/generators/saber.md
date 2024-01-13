@@ -1,7 +1,7 @@
 ---
 title: Saber
 repo: saberland/saber
-homepage: https://saber.land/
+homepage: https://saber.egoist.dev/
 language:
   - JavaScript
 license:
@@ -31,14 +31,8 @@ yarn create blog my-blog
 
 Then run `npm run dev` or `yarn dev` in the created project and you're done!
 
-Check out the [website](https://saber.land) for more details.
+Check out the [website](https://saber.egoist.dev/) for more details.
 
 ## Resources
 
 - [Awesome Saber](https://github.com/egoist/awesome-saber) - A curated list of awesome Saber resources.
-
-## Community
-
-- [Discord Chat](https://chat.saber.land)
-- [Spectrum Chat](https://spectrum.chat/saber)
-- [中文 Telegram 讨论组](https://t.me/joinchat/Bc7EQEaeb4Ty0k5wvRNU7Q)
